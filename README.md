@@ -1,6 +1,6 @@
 ### NLW (Next Level Week "Ecoleta" on Rocketseat)
 
-![Apresentação](https://github.com/laurent-cheret/nlw_ecoleta/blob/master/public/assets/apresentacao.pdf)
+![Apresentação](https://github.com/laurent-cheret/nlw_ecoleta/blob/master/public/assets/Slide1.jpg)
 
 
 ## Table of contents
